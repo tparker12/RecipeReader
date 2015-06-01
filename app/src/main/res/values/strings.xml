@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Reader</string>
+    <string name="action_settings">Settings</string>
+    <string name="save_recipe_button">Save Recipe</string>
+    <string name="input_area_hint">Enter recipe here..</string>
+    <string name="speak_button">Speak recipe</string>
+    <string name="editText_hint">Enter Recipe Here..</string>
+    <string name="editText_label">Input A Recipe</string>
+    <string name="input_recipe_button">Parse Recipe</string>
+    <string name="fragment_save_recipe_button">Save Recipe</string>
+    <string name="name_of_recipe_label">Name of Recipe</string>
+    <string name="readNext_label">Read Next</string>
+    <string name="readPrev_label">Read Prev</string>
+    <string name="recognizeSpeech_button_label">Recognize Speech</string>
+    <string name="clear_button_label">Clear</string>
+    <string name="save_button_label">Modify Recipe</string>
+    <string name="save_activity">SaveActivity</string>
+    <string name="no_list_data">List contains no files..</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="loadRecipe_hint">Enter name of recipe you want loaded or saved and click "Load Recipe" or "Save Recipe"</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="availableRecipes_hint">Available Recipes: </string>
+    <string name="deleteButton_text">Delete</string>
+    <string name="loadButton_text">Load Recipe</string>
+</resources>
